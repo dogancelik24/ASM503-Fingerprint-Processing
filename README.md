@@ -263,7 +263,7 @@ CSV dosyaları da bulunur.
 ## 12. Proje Bağlantıları
 
 -   **GitHub:** `https://github.com/dogancelik24/ASM503-Fingerprint-Processing`
--   **YouTube:** `[Proje tanıtım videosu bağlantısını buraya ekleyin]`
+-  
 
 ## 13. Notlar
 
