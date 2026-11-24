@@ -1,0 +1,46 @@
+ /c/ASM503/Rel_5.0.0/mindtct/obj/src/lib/mindtct/xytreps.o /c/ASM503/Rel_5.0.0/mindtct/obj/src/lib/mindtct/xytreps.d: xytreps.c C:/ASM503/Rel_5.0.0/mindtct/include/lfs.h \
+ C:/msys64/ucrt64/include/math.h C:/msys64/ucrt64/include/corecrt.h \
+ C:/msys64/ucrt64/include/_mingw.h C:/msys64/ucrt64/include/_mingw_mac.h \
+ C:/msys64/ucrt64/include/_mingw_secapi.h \
+ C:/msys64/ucrt64/include/vadefs.h C:/msys64/ucrt64/include/stdio.h \
+ C:/msys64/ucrt64/include/corecrt_wstdio.h \
+ C:/msys64/ucrt64/include/corecrt_stdio_config.h \
+ C:/msys64/ucrt64/include/_mingw_off_t.h \
+ C:/ASM503/Rel_5.0.0/exports/include/an2k.h \
+ C:/msys64/ucrt64/include/stdlib.h \
+ C:/msys64/ucrt64/include/corecrt_malloc.h \
+ C:/msys64/ucrt64/include/corecrt_wstdlib.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.2.0/include/limits.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.2.0/include/syslimits.h \
+ C:/msys64/ucrt64/include/limits.h C:/msys64/ucrt64/include/malloc.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.2.0/include/mm_malloc.h \
+ C:/msys64/ucrt64/include/errno.h C:/msys64/ucrt64/include/string.h \
+ C:/msys64/ucrt64/include/corecrt_memory.h \
+ C:/msys64/ucrt64/include/corecrt_wstring.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.2.0/include/stdarg.h \
+ C:/msys64/ucrt64/include/stdarg.h \
+ C:/msys64/ucrt64/include/_mingw_stdarg.h \
+ C:/ASM503/Rel_5.0.0/exports/include/defs.h
+xytreps.c C:/ASM503/Rel_5.0.0/mindtct/include/lfs.h :
+/msys64/ucrt64/include/math.h C:/msys64/ucrt64/include/corecrt.h :
+/msys64/ucrt64/include/_mingw.h C:/msys64/ucrt64/include/_mingw_mac.h :
+/msys64/ucrt64/include/_mingw_secapi.h :
+/msys64/ucrt64/include/vadefs.h C:/msys64/ucrt64/include/stdio.h :
+/msys64/ucrt64/include/corecrt_wstdio.h :
+/msys64/ucrt64/include/corecrt_stdio_config.h :
+/msys64/ucrt64/include/_mingw_off_t.h :
+/ASM503/Rel_5.0.0/exports/include/an2k.h :
+/msys64/ucrt64/include/stdlib.h :
+/msys64/ucrt64/include/corecrt_malloc.h :
+/msys64/ucrt64/include/corecrt_wstdlib.h :
+/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.2.0/include/limits.h :
+/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.2.0/include/syslimits.h :
+/msys64/ucrt64/include/limits.h C:/msys64/ucrt64/include/malloc.h :
+/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.2.0/include/mm_malloc.h :
+/msys64/ucrt64/include/errno.h C:/msys64/ucrt64/include/string.h :
+/msys64/ucrt64/include/corecrt_memory.h :
+/msys64/ucrt64/include/corecrt_wstring.h :
+/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.2.0/include/stdarg.h :
+/msys64/ucrt64/include/stdarg.h :
+/msys64/ucrt64/include/_mingw_stdarg.h :
+/ASM503/Rel_5.0.0/exports/include/defs.h :

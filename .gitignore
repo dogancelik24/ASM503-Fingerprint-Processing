@@ -1,0 +1,20 @@
+# Python sanal ortamı ve önbellek
+.venv/
+.venv-*/
+__pycache__/
+*.pyc
+
+# Biyometrik veri setleri ve ara çıktılar
+*.tif
+*.tiff
+*.raw
+*.xyt
+*.f32
+*.bmp
+
+# Geçici dosyalar
+*.tmp
+*.log
+
+# Parmak izi minutiae ve biyometrik sablon sonuclari
+mindtct_results/

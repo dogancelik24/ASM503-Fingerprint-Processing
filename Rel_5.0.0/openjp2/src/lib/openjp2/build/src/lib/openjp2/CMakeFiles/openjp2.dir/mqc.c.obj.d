@@ -1,0 +1,65 @@
+src/lib/openjp2/CMakeFiles/openjp2.dir/mqc.c.obj: \
+ C:/ASM503/Rel_5.0.0/openjp2/src/lib/openjp2/src/lib/openjp2/mqc.c \
+ C:/ASM503/Rel_5.0.0/openjp2/src/lib/openjp2/src/lib/openjp2/opj_includes.h \
+ C:/ASM503/Rel_5.0.0/openjp2/src/lib/openjp2/build/src/lib/openjp2/opj_config_private.h \
+ C:/msys64/ucrt64/include/memory.h \
+ C:/msys64/ucrt64/include/corecrt_memory.h \
+ C:/msys64/ucrt64/include/corecrt.h C:/msys64/ucrt64/include/_mingw.h \
+ C:/msys64/ucrt64/include/_mingw_mac.h \
+ C:/msys64/ucrt64/include/_mingw_secapi.h \
+ C:/msys64/ucrt64/include/vadefs.h C:/msys64/ucrt64/include/stdlib.h \
+ C:/msys64/ucrt64/include/corecrt_malloc.h \
+ C:/msys64/ucrt64/include/corecrt_wstdlib.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.2.0/include/limits.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.2.0/include/syslimits.h \
+ C:/msys64/ucrt64/include/limits.h C:/msys64/ucrt64/include/malloc.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.2.0/include/mm_malloc.h \
+ C:/msys64/ucrt64/include/errno.h C:/msys64/ucrt64/include/string.h \
+ C:/msys64/ucrt64/include/corecrt_wstring.h \
+ C:/msys64/ucrt64/include/math.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.2.0/include/float.h \
+ C:/msys64/ucrt64/include/float.h C:/msys64/ucrt64/include/time.h \
+ C:/msys64/ucrt64/include/corecrt_wtime.h \
+ C:/msys64/ucrt64/include/sys/timeb.h C:/msys64/ucrt64/include/_timeval.h \
+ C:/msys64/ucrt64/include/pthread_time.h \
+ C:/msys64/ucrt64/include/pthread_compat.h \
+ C:/msys64/ucrt64/include/stdio.h \
+ C:/msys64/ucrt64/include/corecrt_wstdio.h \
+ C:/msys64/ucrt64/include/corecrt_stdio_config.h \
+ C:/msys64/ucrt64/include/_mingw_off_t.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.2.0/include/stdarg.h \
+ C:/msys64/ucrt64/include/stdarg.h \
+ C:/msys64/ucrt64/include/_mingw_stdarg.h \
+ C:/msys64/ucrt64/include/ctype.h \
+ C:/msys64/ucrt64/include/corecrt_wctype.h \
+ C:/msys64/ucrt64/include/assert.h \
+ C:/ASM503/Rel_5.0.0/openjp2/src/lib/openjp2/src/lib/openjp2/openjpeg.h \
+ C:/ASM503/Rel_5.0.0/openjp2/src/lib/openjp2/src/lib/openjp2/opj_stdint.h \
+ C:/ASM503/Rel_5.0.0/openjp2/src/lib/openjp2/build/src/lib/openjp2/opj_config.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.2.0/include/stdint.h \
+ C:/msys64/ucrt64/include/stdint.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.2.0/include/stddef.h \
+ C:/msys64/ucrt64/include/stddef.h \
+ C:/ASM503/Rel_5.0.0/openjp2/src/lib/openjp2/src/lib/openjp2/opj_inttypes.h \
+ C:/msys64/ucrt64/include/inttypes.h \
+ C:/ASM503/Rel_5.0.0/openjp2/src/lib/openjp2/src/lib/openjp2/opj_clock.h \
+ C:/ASM503/Rel_5.0.0/openjp2/src/lib/openjp2/src/lib/openjp2/opj_malloc.h \
+ C:/ASM503/Rel_5.0.0/openjp2/src/lib/openjp2/src/lib/openjp2/function_list.h \
+ C:/ASM503/Rel_5.0.0/openjp2/src/lib/openjp2/src/lib/openjp2/event.h \
+ C:/ASM503/Rel_5.0.0/openjp2/src/lib/openjp2/src/lib/openjp2/bio.h \
+ C:/ASM503/Rel_5.0.0/openjp2/src/lib/openjp2/src/lib/openjp2/cio.h \
+ C:/ASM503/Rel_5.0.0/openjp2/src/lib/openjp2/src/lib/openjp2/image.h \
+ C:/ASM503/Rel_5.0.0/openjp2/src/lib/openjp2/src/lib/openjp2/invert.h \
+ C:/ASM503/Rel_5.0.0/openjp2/src/lib/openjp2/src/lib/openjp2/j2k.h \
+ C:/ASM503/Rel_5.0.0/openjp2/src/lib/openjp2/src/lib/openjp2/jp2.h \
+ C:/ASM503/Rel_5.0.0/openjp2/src/lib/openjp2/src/lib/openjp2/mqc.h \
+ C:/ASM503/Rel_5.0.0/openjp2/src/lib/openjp2/src/lib/openjp2/raw.h \
+ C:/ASM503/Rel_5.0.0/openjp2/src/lib/openjp2/src/lib/openjp2/pi.h \
+ C:/ASM503/Rel_5.0.0/openjp2/src/lib/openjp2/src/lib/openjp2/tgt.h \
+ C:/ASM503/Rel_5.0.0/openjp2/src/lib/openjp2/src/lib/openjp2/tcd.h \
+ C:/ASM503/Rel_5.0.0/openjp2/src/lib/openjp2/src/lib/openjp2/t1.h \
+ C:/ASM503/Rel_5.0.0/openjp2/src/lib/openjp2/src/lib/openjp2/dwt.h \
+ C:/ASM503/Rel_5.0.0/openjp2/src/lib/openjp2/src/lib/openjp2/t2.h \
+ C:/ASM503/Rel_5.0.0/openjp2/src/lib/openjp2/src/lib/openjp2/mct.h \
+ C:/ASM503/Rel_5.0.0/openjp2/src/lib/openjp2/src/lib/openjp2/opj_intmath.h \
+ C:/ASM503/Rel_5.0.0/openjp2/src/lib/openjp2/src/lib/openjp2/opj_codec.h
