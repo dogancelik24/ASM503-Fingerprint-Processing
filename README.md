@@ -145,11 +145,11 @@ veri setinin eşleştirme çalıştırmalarında başarısız çift oluşmamış
 
 ## 6. Eşit Hata Oranı (EER) Sonuçları
 
-  Veri seti       Genuine   Impostor        EER   EER eşiği
-  ------------- --------- ---------- ---------- -----------
-  FVC2000 DB1         280       2880    %3,7294     15,4422
-  FVC2002 DB1         280       2880    %3,9831     16,0763
-  FVC2004 DB1         280       2880   %11,2642     12,5080
+| Veri seti | Genuine | Impostor | EER | EER eşiği |
+|---|---:|---:|---:|---:|
+| FVC2000 DB1 | 280 | 2880 | %3,7294 | 15,4422 |
+| FVC2002 DB1 | 280 | 2880 | %3,9831 | 16,0763 |
+| FVC2004 DB1 | 280 | 2880 | %11,2642 | 12,5080 |
 
 EER, yanlış kabul oranı (FAR) ile yanlış ret oranının (FRR) eşitlendiği
 noktadaki hata oranını ifade eder. Tablodaki EER değerleri, hesaplanan
